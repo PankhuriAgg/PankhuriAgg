@@ -53,4 +53,5 @@
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-PankhuriAgg-181717?style=for-the-badge&logo=github)](https://github.com/PankhuriAgg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PankhuriAggarwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankhuri-aggarwal)
+[![Gmail](https://img.shields.io/badge/Gmail-pankhuriaggarwal467@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pankhuriaggarwal467@gmail.com)
