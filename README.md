@@ -2,7 +2,7 @@
 
 # Hi there, I'm Pankhuri Aggarwal 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&multiline=true&width=435&lines=C+Developer;Problem+Solver;Building+Cool+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vlinemultiline=true&width=435&height=45&lines=C+Developer;Problem+Solver;Building+Cool+Projects)](https://git.io/typing-svg)
 
 </div>
 
